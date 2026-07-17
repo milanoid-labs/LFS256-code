@@ -119,8 +119,7 @@ curl -d '{"message":"this is my first webhook"}' -H "Content-Type: application/j
 
 Then in Argo Workflows UI running at http://capa-argo.milanoid.net/workflows/argo
 
-![[Screenshot 2026-07-17 at 11.48.05.png]]
-
+<img width="1201" height="899" alt="Screenshot 2026-07-17 at 11 48 05" src="https://github.com/user-attachments/assets/3cd0a858-6f9a-4bed-9c7f-3ffcdac057a9" />
 
 We have setup integration of Argo Workflows and Argo Events:
 
